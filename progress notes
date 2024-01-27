@@ -1,0 +1,19 @@
+progress notes
+
+1/26/24
+
+created 5 agents-- 
+the "jargonizer a.k.a. the academic shibboleth defense weapon"
+the xml to stat modeling agent
+the problem solving timeline advisor
+the web researcher
+and
+the data sorter
+
+ran each agent to degrees of varying success--
+each prompt required a bit of tweaking, or not tweaking, but to include another aspect that wasn't included in the original prompt
+all agents were ultimately successful and yielded a pre-csv formatted result
+
+(state, syringe law inclusion, SSP exemption, protection against drug residue prosecution, SSP operation allowed):
+"Alabama", "Y", "N", "N", "N" "Alaska", "N", "N/A", "N/A", "Y" "Arizona", "Y", "N", "N", "N" "Arkansas", "Y", "N", "N", "Y" "California", "N", "N/A", "Y", "Y" "Colorado", "Y", "Y", "Y", "Y" "Connecticut", "N", "N/A", "N", "Y" "Delaware", "Y", "Y", "N", "Y" "Florida", "Y", "Y", "N", "Y" "Georgia", "Y", "N", "N", "Y" "Hawaii", "Y", "Y", "N", "Y" "Idaho", "Y", "N", "N", "Y" "Illinois", "Y", "Y", "N", "Y" "Indiana", "N", "N/A", "N", "Y" "Iowa", "Y", "N", "N", "N" "Kansas", "Y", "N", "N", "N" "Kentucky", "Y", "Y", "Y", "Y" "Louisiana", "Y", "N", "N", "Y" "Maine", "Y", "Y", "Y", "Y" "Maryland", "Y", "Y", "Y", "Y" "Massachusetts", "N", "N/A", "N", "Y" "Michigan", "N", "N/A", "N", "Y" "Minnesota", "N", "N/A", "N", "Y" "Mississippi", "Y", "N", "N", "N" "Missouri", "Y", "N", "N", "N"
+

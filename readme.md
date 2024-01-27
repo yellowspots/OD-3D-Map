@@ -1,4 +1,3 @@
-#3d plotted bar map using 
+Syringe access programs, called "syringe service programs", are a particuarly impactful system that protects both the people who inject drugs (PWID), as well as the geographically proximal and relational communities they inhabit. Access to syringes and other methods of harm reduction, such as overdose reversal access (through drugs like Naloxone, or competent agents to  respond on the scene), reduces risk of transmission for blood-borne diseases.
 
-source here:
-
+This project aims to conduct a comprehensive examination of the relationship between EMS activations, Narcan availability, and state-level legislation on Good Samaritan laws or drug criminalization. Particularly, I am interested in any cross-sectional, longitudinal, panel, or time-series data, applying statistical modeling and multivariate analysis techniques, potentially incorporating logistic regression, survival analysis, and interrupted time series analysis. These methods are envisaged to examine the impact of policy enactment and Narcan accessibility on the frequency of EMS activations.
